@@ -1,4 +1,4 @@
-# UsefulLinks-Cybersec
+# Useful Cybersecurity Links
 A collection of links to various FREE cybersecurity resources that I have found useful  
   
 ## Best Practices
