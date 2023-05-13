@@ -7,3 +7,4 @@ CIS Benchmarks (https://www.cisecurity.org/cis-benchmarks)
 Windows Blue Team security pack (https://github.com/OsbornePro/BTPS-SecPack)  
 ## Vulnerability Testing Tools
 AD Certificate Services auditor (https://github.com/GhostPack/PSPKIAudit)  
+Bloodhound/Sharphound AD auditor (https://github.com/BloodHoundAD)
