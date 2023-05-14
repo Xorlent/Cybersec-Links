@@ -12,4 +12,4 @@
 - Start small and simple.  
   - If you have a Wi-Fi environment that can implement RADIUS authentication for access, do this first.  
   - Write down all of the possible failure scenarios and simplify to make these easier (read: quicker) to recover from.  
-  - Remember that redundancy and high availability setups add complexity.  Sometimes you can get more mileage out of proper design.  With 802.1x on access switches for example, you can simply specify two RADIUS servers.  
+  - Remember that redundancy and high availability adds complexity.  Usually you can get more mileage out of proper design.  With 802.1x on access switches for example, you can simply specify two RADIUS servers.  
