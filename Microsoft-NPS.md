@@ -10,4 +10,6 @@
 - Certificate Services is needed for most NAC deployments.  Even if you do not immediately plan to use a PKI, getting a working, tested, and familiar setup running in your environment should be a priority.  
 - If you have an older Certificate Services deployment with SHA1-based root CA and/or sub CA certificate signatures, [you need to address this](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/sha1-key-migration-to-sha256-for-a-two-tier-pki-hierarchy/ba-p/400338).  
 - Start small and simple.  
-  - If you have a Wi-Fi environment that can implement RADIUS authentication for access, do this first.
+  - If you have a Wi-Fi environment that can implement RADIUS authentication for access, do this first.  
+  - Write down all of the possible failure scenarios and simplify to make these easier (read: quicker) to recover from.  
+  - Remember that redundancy and high availability setups add complexity.  Sometimes you can get more mileage out of proper design.  With 802.1x on access switches for example, you can simply specify two RADIUS servers.  
