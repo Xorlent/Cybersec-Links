@@ -5,6 +5,7 @@ A collection of links to various FREE cybersecurity resources that I have found 
 CIS Benchmarks (https://www.cisecurity.org/cis-benchmarks)  
 ## Defender Tools
 Windows Blue Team security pack (https://github.com/OsbornePro/BTPS-SecPack)  
+Canary Tokens (https://docs.canarytokens.org/guide/getting-started.html)  
 ## Vulnerability Testing Tools
 AD Certificate Services auditor (https://github.com/GhostPack/PSPKIAudit)  
 Bloodhound/Sharphound AD auditor (https://github.com/BloodHoundAD)
