@@ -3,6 +3,8 @@ A collection of links to various FREE cybersecurity resources that I have found 
   
 ## Best Practices
 CIS Benchmarks (https://www.cisecurity.org/cis-benchmarks)  
+Microsoft Certificate Services Quick-Start (https://sqldeep.com/how-to-install-and-configure-microsoft-certification-authority-ca-services/)
+Micorosft 802.1x RADIUS/NPS Guidance coming soon...
 
 ## Defender Tools
 Windows Blue Team security pack (https://github.com/OsbornePro/BTPS-SecPack)  
