@@ -1,3 +1,4 @@
+#### What is NPS?
 - Included in your Windows Server licensing is a role called, [Network Policy Server](https://learn.microsoft.com/en-us/windows-server/networking/technologies/nps/nps-top).  NPS is most commonly implementated for RADIUS authentication of Wi-Fi and Wired network clients (802.1x).  
 - Although relatively simplistic and limited in terms of client visibility and reporting, it can help smaller organizations implement better network controls for minimal cost and effort.  
 - A properly built Microsoft Certificate Services and NPS deployment can be functionally competitive versus products like Cisco ISE, Aruba Clearpass, FortiNAC/Bradford -- all without the significant cost and ongoing operational complexities.  
