@@ -24,7 +24,7 @@
 16.	IMPORTANT: Select “Windows Server 2019 Standard (Desktop Experience)” and click “Next.”  
 17.	Accept license terms and click “Next.”  
 18.	Select “Keep personal files and apps” and click “Next.”  
-19.	If a warning appears about VMWare Tools components/drivers, they are safe to ignore (confirm) if you have the latest 11.3 release installed per step 6.  Any other driver or application warnings should be researched fully before continuing.  
+19.	If a warning appears about VMWare Tools components/drivers, they are safe to ignore (confirm) if you have the latest 11.3 release installed per step 5.  Any other driver or application warnings should be researched fully before continuing.  
 20.	Click, “Install” when prompted.  It can take up to 75 minutes for this process to complete.  
 21.	If the install errors at 21%, it is possible you have OS volume corruption.  Verify security is correct first:  
     a.	From an admin command prompt at C:\>  
