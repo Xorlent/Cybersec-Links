@@ -1,6 +1,6 @@
-##Windows Server 2012R2/2016 to 2019 In-Place Upgrade Procedure
-*Your mileage may vary!*
-
+## Windows Server 2012R2/2016 to 2019 In-Place Upgrade Procedure  
+*Your mileage may vary!*  
+  
 1.	Prepare your change management request.  
     a.	The upgrade maintenance window should be at least 3 hours.  
     b.	This process is not valid or recommended for domain controllers, ADFS, Exchange, or Microsoft NPS  
