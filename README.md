@@ -11,7 +11,7 @@ Other Tips (https://github.com/Xorlent/Cybersec-Links/blob/main/Helpful-Tips.md)
 Windows Blue Team security pack (https://github.com/OsbornePro/BTPS-SecPack)  
 Windows Sysmon Configurator (https://github.com/olafhartong/sysmon-modular) - [Link to Microsoft Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)  
 Canary Tokens (https://docs.canarytokens.org/guide/getting-started.html)  
-RITA (https://www.activecountermeasures.com/free-tools/rita/) - you can convert PCAP files for analysis or a mirror port for real-time analysis  
+RITA (https://www.activecountermeasures.com/free-tools/rita/) - you can convert PCAP files or use a mirror port for real-time analysis  
 
 ## Filtering and Security
 Quad9 filtered DNS (https://www.quad9.net)  
