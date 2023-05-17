@@ -9,6 +9,7 @@ Other Tips (https://github.com/Xorlent/Cybersec-Links/blob/main/Helpful-Tips.md)
 
 ## Defender Tools
 Windows Blue Team security pack (https://github.com/OsbornePro/BTPS-SecPack)  
+Windows Sysmon Configurator (https://github.com/olafhartong/sysmon-modular) - [Microsoft Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)  
 Canary Tokens (https://docs.canarytokens.org/guide/getting-started.html)  
 RITA (https://www.activecountermeasures.com/free-tools/rita/) - you can convert PCAP files for analysis with Brim (https://www.brimdata.io)  
 
