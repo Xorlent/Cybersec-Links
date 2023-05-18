@@ -16,6 +16,7 @@ RITA (https://www.activecountermeasures.com/free-tools/rita/) - you can convert 
 ## Filtering and Security
 Quad9 filtered DNS (https://www.quad9.net)  
 AbuseIPDB (https://www.abuseipdb.com)  
+Library of [vulnerable Windows driver hashes](https://github.com/nasbench/LOLDrivers/blob/main/detections/hashes/samples.sha256)  
 
 ## Vulnerability Testing Tools
 AD Certificate Services auditor (https://github.com/GhostPack/PSPKIAudit)  
