@@ -22,7 +22,4 @@ Library of [vulnerable Windows driver hashes](https://github.com/magicsword-io/L
 AD Certificate Services auditor (https://github.com/GhostPack/PSPKIAudit)  
 Bloodhound/Sharphound AD auditor (https://github.com/BloodHoundAD)  
 OpenVAS vulnerability scanner (https://openvas.org)  
-CrowdStrike AzureAD/O365 security auditor (https://www.crowdstrike.com/resources/community-tools/crt-crowdstrike-reporting-tool-for-azure/)
-
-## Forensics Tools
-  
+CrowdStrike AzureAD/O365 security auditor (https://www.crowdstrike.com/resources/community-tools/crt-crowdstrike-reporting-tool-for-azure/)  
