@@ -6,10 +6,9 @@
   
 #### If you are thinking about NAC:
 - *Priorities.*  Do you still have Server 2012 or Windows 8.1 and earlier systems in your fleet?  Address these first.  
-- I encourage your team to deploy, configure, and audit Microsoft Certificate Services as a first step.  
-- Certificate Services is needed for most NAC deployments.  Even if you do not immediately plan to use a PKI, getting a working, tested, and familiar setup running in your environment should be a priority.  
+- A Microsoft Certificate Services deployment should be your team's first step towards NAC.  Even if you do not currently plan to use a PKI, getting a working, tested, and documented certificate system setup running in your environment should be a priority.  
 - If you have an older Certificate Services deployment with SHA1-based root CA and/or sub CA certificate signatures, [you need to address this](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/sha1-key-migration-to-sha256-for-a-two-tier-pki-hierarchy/ba-p/400338).  
 - Start small and simple.  
-  - If you have a Wi-Fi environment that can implement RADIUS authentication for access, do this first.  
-  - Write down all of the possible failure scenarios and simplify to make these easier (read: quicker) to recover from.  
-  - Remember that redundancy and high availability adds complexity.  Usually you can get more mileage out of proper design.  With 802.1x on access switches for example, you can simply specify two RADIUS servers.  
+  - If you have a Wi-Fi deployment that is RADIUS authentication-compatible, migrate your private SSIDs to use Microsoft NPS.  
+  - Write down all of the possible failure scenarios and simplify or adjust the design to make these easier (read: quicker) to recover from.  
+  - Remember that redundancy and high availability adds complexity; usually you can get more mileage out of proper design.  Most vendors allow you to specify multiple RADIUS servers to provide simple fail-over capability.
