@@ -9,7 +9,7 @@ Other Tips (https://github.com/Xorlent/Cybersec-Links/blob/main/Helpful-Tips.md)
 
 ## Filtering and Security
 OpenEDR, free cloud-based EDR (https://www.openedr.com)  
-Wazuh, free on-premise EDR (https://wazuh.com/platform/)
+Wazuh, free on-premise EDR (https://wazuh.com/platform/)  
 Quad9 filtered DNS (https://www.quad9.net)  
 AbuseIPDB (https://www.abuseipdb.com)  
 Library of [vulnerable Windows driver hashes](https://github.com/magicsword-io/LOLDrivers)  
