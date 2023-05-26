@@ -14,6 +14,7 @@ Canary Tokens (https://docs.canarytokens.org/guide/getting-started.html)
 RITA (https://www.activecountermeasures.com/free-tools/rita/) - you can convert PCAP files or use a mirror port for real-time analysis  
 
 ## Filtering and Security
+OpenEDR (https://www.openedr.com)  
 Quad9 filtered DNS (https://www.quad9.net)  
 AbuseIPDB (https://www.abuseipdb.com)  
 Library of [vulnerable Windows driver hashes](https://github.com/magicsword-io/LOLDrivers)  
