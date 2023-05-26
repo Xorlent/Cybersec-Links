@@ -1,8 +1,8 @@
 #### What is NPS?
 - Included in your Windows Server licensing is a role called, [Network Policy Server](https://learn.microsoft.com/en-us/windows-server/networking/technologies/nps/nps-top).  NPS is most commonly leveraged for RADIUS authentication of Wi-Fi and Wired network clients (802.1x).  
 - Although relatively simplistic and limited in terms of client visibility and reporting, it can help smaller organizations implement better network controls for minimal cost and effort.  
-- A properly built NPS deployment with Microsoft Certificate Services can be functionally competitive versus products like Cisco ISE, Aruba Clearpass, FortiNAC/Bradford -- all without the significant cost and operational complexities.  
-- Deploying and configuring NPS in a test bed, even before doing research and selection on a 3rd party product will enable your team to design and test a working 802.1x solution in your environment which provides clarity as to the features and functionality that is truly needed.  In fact, NPS can continue to be used as a fail-over RADIUS host should the 3rd party product go offline for any reason.
+- Alongside Microsoft Certificate Services, a properly built NPS deployment can be functionally competitive versus products like Cisco ISE, Aruba Clearpass, FortiNAC/Bradford -- all without the significant cost and operational complexities.  
+- Deploying and configuring NPS in a test bed, even before doing research and selection on a 3rd party product will enable your team to design and test a working 802.1x solution in your environment which provides clarity as to the features and functionality that is truly needed.  In fact, NPS can continue to be used as a fail-over RADIUS host should the 3rd party product require maintenance or fail for any reason.
   
 #### If you are thinking about NAC:
 - *Priorities.*  Do you still have Server 2012 or Windows 8.1 and earlier systems in your fleet?  Address these first.  
