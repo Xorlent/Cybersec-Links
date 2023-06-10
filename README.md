@@ -16,6 +16,7 @@ Library of [vulnerable Windows driver hashes](https://github.com/magicsword-io/L
 Win32 app isolation - Experimental (https://github.com/microsoft/win32-app-isolation)  
 
 ## Defender Tools
+Malware Bazaar sample lookup (https://bazaar.abuse.ch/browse/)
 Windows Blue Team security pack (https://github.com/OsbornePro/BTPS-SecPack)  
 Windows Sysmon Configurator (https://github.com/olafhartong/sysmon-modular) - [Link to Microsoft Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)  
 Canary Tokens (https://docs.canarytokens.org/guide/getting-started.html)  
