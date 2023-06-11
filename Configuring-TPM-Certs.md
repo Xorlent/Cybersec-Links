@@ -33,6 +33,7 @@ _from (https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/co
 11. If not yet done, the final step needed to configure the CA to issue using TPM key attestation for appropriately configured cert templates (create the C:\CAEndorsementKeyList folder first):  
   a. certutil.exe -setreg CA\EndorsementKeyListDirectories +"C:\CAEndorsementKeyList"  
 12. Issue the following on all machines that will be requesting TPM-endorsed certificates  
+  *Script this process for a deployment*
   a. Get-TpmEndorsementKeyInfo -hashalgorithm sha256  
   b. Copy the hash value and paste as the complete filename of a 0 byte file in C:\CAEndorsementKeyList on the issuing CA server  
 13. Publish the template  
