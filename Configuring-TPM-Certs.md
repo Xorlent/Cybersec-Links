@@ -33,7 +33,7 @@ _from (https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/co
 11. If not yet done, the final step needed to configure the CA to issue using TPM key attestation for appropriately configured cert templates (create the C:\CAEndorsementKeyList folder first):  
   a. Grant read-only permissions to the computer account of the Certificate Services server  
   b. From an admin command prompt:
-     '''certutil.exe -setreg CA\EndorsementKeyListDirectories +"C:\CAEndorsementKeyList"'''
+     ```certutil.exe -setreg CA\EndorsementKeyListDirectories +"C:\CAEndorsementKeyList"```  
   c. Reboot or restart Certificate Services  
 13. Issue the following on all machines that will be requesting TPM-endorsed certificates  
   *Script this process for a deployment*  
