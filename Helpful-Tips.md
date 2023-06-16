@@ -2,3 +2,4 @@
 - Out of the box, Microsoft Certificate Services computer templates do not utilize client TPM to protect certificates.  If you are using computer certificate authentication to protect your network and not using TPM, an attacker can simply copy a valid certificate to a machine of their choosing to be granted access. [Here is a quick guide that may help you.](https://github.com/Xorlent/Cybersec-Links/blob/main/Configuring-TPM-Certs.md)  
 - Enabling and monitoring WMIC is recommended in a Windows environment  
 ```Wevtutil.exe sl Microsoft-Windows-WMI-Activity/Trace /e:true```  
+- [The most complete and well documented Microsoft Certificate Authority build/configure documentation I've found](https://mjcb.io/blog/2020/03/09/certificate-authority-windows-server-2019/)  
