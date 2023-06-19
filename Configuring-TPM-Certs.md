@@ -27,4 +27,4 @@ _from (https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/co
       - Autoenroll  
 9. Request Handling  
   a. Ensure all selectable options are unchecked  
-10. Publish the template  
+10. Publish the template.  At this step you can publish a group policy object to have the machines auto-enroll.  
