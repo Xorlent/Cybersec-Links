@@ -16,15 +16,11 @@ _from (https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/co
   e. Check only “Microsoft Platform Crypto Provider”  
   f. Thumbprint: SHA256  
 5. Click OK  
-6. Re-open the new template - This step is required due to a UI bug  
-7. Compatibility  
-  a. Upgrade Certificate Authority compatibility to 2012R2  
-  b. Upgrade Certificate recipient compatibility to Windows 10/2016  
-8. Security  
+6. Security  
   a.Ensure security settings are appropriate  
     *Hosts that need to enroll should have only the following rights:*  
       - Enroll  
       - Autoenroll  
-9. Request Handling  
+7. Request Handling  
   a. Ensure all selectable options are unchecked  
-10. Publish the template.  At this step you can publish a group policy object to have the machines auto-enroll.  
+8. Publish the template.  At this step you can publish a group policy object to have the machines auto-enroll.  
