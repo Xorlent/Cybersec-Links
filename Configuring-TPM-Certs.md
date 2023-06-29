@@ -1,5 +1,4 @@
-# Configuring computer certificate template for TPM attestation  
-_from (https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/component-updates/tpm-key-attestation)_  
+# Configuring a TPM-based computer certificate template  
   
 *These steps assume Active Directory functional level is 2012R2 or higher, a working CA is deployed, clients have working TPM, and you are familiar with Microsoft Certificate Services.*  
 1. Copy a working computer certificate template  
