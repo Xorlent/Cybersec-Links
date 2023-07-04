@@ -1,5 +1,3 @@
 - In an enterprise Windows environment, never disable [Credential Guard](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-manage).  This feature helps prevent the most common types of attacks against Active Directory.  
 - Out of the box, Microsoft Certificate Services computer templates do not utilize client TPM to protect certificates.  If you are using computer certificate authentication to protect your network and not using TPM, an attacker can simply copy a valid certificate to a machine of their choosing to be granted access. [Here is a quick setup guide I created to make the necessary change.](https://github.com/Xorlent/Cybersec-Links/blob/main/Configuring-TPM-Certs.md)  
-- Enabling and monitoring WMIC is recommended in a Windows environment  
-```Wevtutil.exe sl Microsoft-Windows-WMI-Activity/Trace /e:true```  
-- [This is the most complete and well documented Microsoft Certificate Authority build/configure documentation I've found](https://mjcb.io/blog/2020/03/09/certificate-authority-windows-server-2019/)  
+- If you have systems in your environment without TPM, you will need to get busy on a hardware refresh project.  Windows 11 requires TPM 2.0.  
