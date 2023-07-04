@@ -16,4 +16,4 @@
 
 #### NPS on Windows Server 2019:
 - If, despite all your best efforts, the RADIUS server does not seem to be responding to client requests, it's likely Microsoft's problem.  Fix the IAS/NPS Windows Firewall service access by running the following from an elevated command prompt:
-  '''sc sidtype IAS unrestricted'''
+  ```sc sidtype IAS unrestricted```
