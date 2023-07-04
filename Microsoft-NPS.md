@@ -15,5 +15,5 @@
   - Remember that redundancy and high availability adds complexity; usually you can get more mileage out of proper design.  Most vendors allow you to specify multiple RADIUS servers to provide simple fail-over capability.
 
 #### NPS on Windows Server 2019:
-- If, despite all your best efforts, the RADIUS server does not seem to be responding to client requests, it's likely Microsoft's problem.  Fix the IAS/NPS Windows Firewall service access by running the following from an elevated command prompt:
+- If, despite all your best efforts, the RADIUS server does not seem to be responding to client requests, it's likely Microsoft's problem.  Fix the IAS/NPS Windows Firewall service access by running the following from an elevated command prompt:  
   ```sc sidtype IAS unrestricted```
