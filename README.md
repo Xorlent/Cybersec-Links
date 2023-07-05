@@ -27,3 +27,12 @@ AD Certificate Services auditor (https://github.com/GhostPack/PSPKIAudit)
 Bloodhound/Sharphound AD auditor (https://github.com/BloodHoundAD)  
 OpenVAS vulnerability scanner (https://openvas.org)  
 CrowdStrike AzureAD/O365 security auditor (https://www.crowdstrike.com/resources/community-tools/crt-crowdstrike-reporting-tool-for-azure/)  
+
+## Podcasts
+Darknet Diaries (https://darknetdiaries.com)  
+Hacked  
+BHIS, Talkin' About Infosec News  
+Security Now  
+Cyber  
+Cyberwire Daily  
+Down the Security Rabbithole
