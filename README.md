@@ -30,9 +30,10 @@ CrowdStrike AzureAD/O365 security auditor (https://www.crowdstrike.com/resources
 
 ## Podcasts
 Darknet Diaries (https://darknetdiaries.com)  
-Hacked  
-BHIS, Talkin' About Infosec News  
-Security Now  
-Cyber  
-Cyberwire Daily  
-Down the Security Rabbithole
+Hacked (https://pod.link/1049420219)  
+BHIS, Talkin' About Infosec News (https://www.blackhillsinfosec.com/podcasts/)  
+Malicious Life (https://www.cybereason.com/blog/category/podcasts)  
+Security Now (https://www.grc.com/securitynow.htm)  
+Cyber ()  
+Cyberwire Daily ()  
+Down the Security Rabbithole ()  
