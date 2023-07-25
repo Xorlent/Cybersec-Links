@@ -28,6 +28,9 @@ Bloodhound/Sharphound AD auditor (https://github.com/BloodHoundAD)
 OpenVAS vulnerability scanner (https://openvas.org)  
 CrowdStrike AzureAD/O365 security auditor (https://www.crowdstrike.com/resources/community-tools/crt-crowdstrike-reporting-tool-for-azure/)  
 
+## Threat Hunting Tools
+Securonics Threat Sweeper / IOCs (https://github.com/Securonix/AutonomousThreatSweeper)  
+
 ## Podcasts
 Darknet Diaries (https://darknetdiaries.com)  
 Hacked (https://pod.link/1049420219)  
