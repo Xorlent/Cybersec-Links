@@ -29,7 +29,7 @@ OpenVAS vulnerability scanner (https://openvas.org)
 CrowdStrike AzureAD/O365 security auditor (https://www.crowdstrike.com/resources/community-tools/crt-crowdstrike-reporting-tool-for-azure/)  
 
 ## Threat Hunting Tools
-Securonics Threat Sweeper / IOCs (https://github.com/Securonix/AutonomousThreatSweeper)  
+Securonix Threat Sweeper / IOCs (https://github.com/Securonix/AutonomousThreatSweeper)  
 
 ## Podcasts
 Darknet Diaries (https://darknetdiaries.com)  
