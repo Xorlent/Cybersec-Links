@@ -30,6 +30,7 @@ CrowdStrike AzureAD/O365 security auditor (https://www.crowdstrike.com/resources
 
 ## Threat Hunting Tools
 Securonix Threat Sweeper / IOCs (https://github.com/Securonix/AutonomousThreatSweeper)  
+Sigcheck by Sysinternals (https://learn.microsoft.com/en-us/sysinternals/downloads/sigcheck)  
 
 ## Podcasts
 Darknet Diaries (https://darknetdiaries.com)  
