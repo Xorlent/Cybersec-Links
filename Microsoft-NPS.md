@@ -17,3 +17,10 @@
 #### NPS on Windows Server 2019:
 - If, despite all your best efforts, the RADIUS server does not seem to be responding to client requests, it's likely Microsoft's problem.  Fix the IAS/NPS Windows Firewall service access by running the following from an elevated command prompt:  
   ```sc sidtype IAS unrestricted```
+
+#### Other NPS tips:
+- Always make logging the first thing you configure.  Log settings can be found in the "Accounting" option within the Network Policy Server management console.
+- If you are setting up 802.1x wired authentication, you will want to configure a test user on the switches so they can detect when a RADIUS host is offline.  These tests will result in a lot of log entries you probably don't want to see.
+  - In regedit, navigate to ```HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\IAS\Parameters```
+  - Add the following entry
+
