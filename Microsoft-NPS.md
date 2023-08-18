@@ -19,8 +19,8 @@
   ```sc sidtype IAS unrestricted```
 
 #### Other NPS tips:
-- Always make logging the first thing you configure.  Log settings can be found in the "Accounting" option within the Network Policy Server management console.
-  - If you plan on trying the NPS log parser / visualizer, you will want to configure daily logs in the ODBC format.
+- Always make logging the first thing you configure.  Log settings can be found under the "Accounting" option in the Network Policy Server management console.
+  - If you plan on trying the NPS log parser / visualizer I created, you will want to configure daily logs in the ODBC format.
 - If you are setting up 802.1x wired authentication, you will want to configure a test user on the switches so they can detect when a RADIUS host is offline.  These tests will result in a lot of log entries you probably don't want to see.
   - In regedit, navigate to ```HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\IAS\Parameters```
   - Add an REG_SZ key called, "ping user-name"
