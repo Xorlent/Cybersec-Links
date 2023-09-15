@@ -32,6 +32,9 @@ CrowdStrike AzureAD/O365 security auditor (https://www.crowdstrike.com/resources
 Securonix Threat Sweeper / IOCs (https://github.com/Securonix/AutonomousThreatSweeper)  
 Sigcheck by Sysinternals (https://learn.microsoft.com/en-us/sysinternals/downloads/sigcheck)  
 
+## Website Security  
+Cloudflare Page Shield (https://blog.cloudflare.com/making-content-security-policies-csps-easy-with-page-shield/)  
+
 ## Podcasts
 Darknet Diaries (https://darknetdiaries.com)  
 Hacked (https://pod.link/1049420219)  
