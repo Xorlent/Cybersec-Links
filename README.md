@@ -1,5 +1,5 @@
 # Useful Cybersecurity Links
-A collection of links to various FREE cybersecurity resources that I have found useful  
+A collection of info and links to various useful cybersecurity resources  
   
 ## Best Practices
 CIS Benchmarks (https://www.cisecurity.org/cis-benchmarks)  
