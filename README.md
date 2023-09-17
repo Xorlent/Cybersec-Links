@@ -34,6 +34,7 @@ Sigcheck by Sysinternals (https://learn.microsoft.com/en-us/sysinternals/downloa
 
 ## Website Security  
 Cloudflare Page Shield (https://blog.cloudflare.com/making-content-security-policies-csps-easy-with-page-shield/)  
+Simply Static - Convert a Wordpress site to 100% static Cloudflare Pages site! (https://wordpress.org/plugins/simply-static/)  
 
 ## Podcasts
 Darknet Diaries (https://darknetdiaries.com)  
