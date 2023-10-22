@@ -6,5 +6,5 @@
 - If you have systems in your environment without TPM, you will need to get busy on a hardware refresh project.  Windows 11 requires TPM 2.0.
 - Disable the following services that do not have DEP protection on all Windows desktop OS machines
   - "Windows Phone IP over USB Transport (IpOverUsbSvc)"
-  - "Intel((R)) Management Engine WMI Provider Registation"
+  - "Intel(R) Management Engine WMI Provider Registation"
 - You can check for other running services or applications missing DEP by opening Task Manager, selecting "Details," clicking on the column headers and adding "Data execution prevention" to the column list
