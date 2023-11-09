@@ -11,6 +11,7 @@ Other Tips (https://github.com/Xorlent/Cybersec-Links/blob/main/Helpful-Tips.md)
 OpenEDR, free cloud-based EDR (https://www.openedr.com)  
 Wazuh, free on-premise EDR (https://wazuh.com/platform/)  
 Quad9 filtered DNS (https://www.quad9.net)  
+1Hosts DNS filter lists (https://github.com/badmojr/1Hosts)  
 AbuseIPDB (https://www.abuseipdb.com)  
 Library of [vulnerable Windows driver hashes](https://github.com/magicsword-io/LOLDrivers).  Load these into your EDR for detection - the results can be a real eye-opener.  
 Win32 app isolation - Experimental (https://github.com/microsoft/win32-app-isolation)  
