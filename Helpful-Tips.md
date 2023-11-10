@@ -9,3 +9,7 @@
   - "Windows Phone IP over USB Transport (IpOverUsbSvc)"
   - "Intel(R) Management Engine WMI Provider Registation"
 - You can check for other running services or applications missing DEP by opening Task Manager, selecting "Details," clicking on the column headers and adding "Data execution prevention" to the column list
+### Firewall Deep Packet Inspection
+- Many firewalls with DPI only support inspection of certain protocol versions, like TLS 1.2 and 1.3  
+  - A common attacker circumvention technique is to force a client to connect on an unsupported protocol, bypassing inspection  
+  - Be sure to configure your firewall to block unsupported and insecure protocols, e.g. SSL 1.0, 2.0, 3.0, TLS 1.0, 1.1
