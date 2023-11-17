@@ -26,6 +26,7 @@ RITA (https://www.activecountermeasures.com/free-tools/rita/) - you can convert 
 ## Vulnerability Testing Tools
 AD Certificate Services auditor (https://github.com/GhostPack/PSPKIAudit)  
 Bloodhound/Sharphound AD auditor (https://github.com/BloodHoundAD)  
+Purple Knight AD auditor (https://www.purple-knight.com)
 OpenVAS vulnerability scanner (https://openvas.org)  
 CrowdStrike AzureAD/O365 security auditor (https://www.crowdstrike.com/resources/community-tools/crt-crowdstrike-reporting-tool-for-azure/)  
 
