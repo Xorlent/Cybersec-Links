@@ -7,7 +7,7 @@
   - Windows 11 requires TPM 2.0
 - Disable the following services that do not have DEP protection on all Windows desktop OS machines
   - "Windows Phone IP over USB Transport (IpOverUsbSvc)"
-  - "Intel(R) Management Engine WMI Provider Registation"
+  - "Intel(R) Management Engine WMI Provider Registration"
 - You can check for other running services or applications missing DEP by opening Task Manager, selecting "Details," clicking on the column headers and adding "Data execution prevention" to the column list
 ### Firewall Deep Packet Inspection
 - Many firewalls with DPI only support inspection of certain protocol versions, like TLS 1.2 and 1.3  
