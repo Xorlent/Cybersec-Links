@@ -29,6 +29,7 @@ Bloodhound/Sharphound AD auditor (https://github.com/BloodHoundAD)
 Purple Knight AD auditor (https://www.purple-knight.com)  
 OpenVAS vulnerability scanner (https://openvas.org)  
 CrowdStrike AzureAD/O365 security auditor (https://www.crowdstrike.com/resources/community-tools/crt-crowdstrike-reporting-tool-for-azure/)  
+Project Discovery Nuclei (https://github.com/projectdiscovery/nuclei)  
 
 ## Threat Hunting Tools
 Securonix Threat Sweeper / IOCs (https://github.com/Securonix/AutonomousThreatSweeper)  
