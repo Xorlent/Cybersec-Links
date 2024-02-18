@@ -37,7 +37,7 @@ Sigcheck by Sysinternals (https://learn.microsoft.com/en-us/sysinternals/downloa
 
 ## Website Security  
 Cloudflare Page Shield (https://blog.cloudflare.com/making-content-security-policies-csps-easy-with-page-shield/)  
-Enzoic Free and Simple Web Password Hygiene  (https://docs.enzoic.com/enzoic-api-developer-documentation/password-strength-meter/example)  
+Enzoic Free and Simple Web Password Hygiene (https://docs.enzoic.com/enzoic-api-developer-documentation/password-strength-meter/example)  
 Simply Static - Convert a Wordpress site to 100% static Cloudflare Pages site! (https://wordpress.org/plugins/simply-static/)  
 
 ## Podcasts
