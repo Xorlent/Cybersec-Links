@@ -13,6 +13,7 @@ Wazuh, free on-premise EDR (https://wazuh.com/platform/)
 Quad9 filtered DNS (https://www.quad9.net)  
 1Hosts DNS filter lists (https://github.com/badmojr/1Hosts)  
 AbuseIPDB (https://www.abuseipdb.com)  
+RPC Firewall, from the fine folks at Zero Networks (https://github.com/zeronetworks/rpcfirewall)  
 Library of [vulnerable Windows driver hashes](https://github.com/magicsword-io/LOLDrivers).  Load these into your EDR for detection - the results can be a real eye-opener.  
 Win32 app isolation - Experimental (https://github.com/microsoft/win32-app-isolation)  
 
