@@ -13,3 +13,5 @@
 - Many firewalls with DPI only support inspection of certain protocol versions, like TLS 1.2 and 1.3  
   - A common attacker circumvention technique is to force a client to connect on an unsupported protocol, bypassing inspection  
   - Be sure to configure your firewall to block unsupported and insecure protocols, e.g. SSL 1.0, 2.0, 3.0, TLS 1.0, 1.1
+### AppLocker Authenticode Hash Generation
+- To create AppLocker rules from a list of files, use the PowerShell command, [Get-AppLockerFileInformation](https://learn.microsoft.com/en-us/powershell/module/applocker/get-applockerfileinformation?view=windowsserver2022-ps)
