@@ -1,0 +1,32 @@
+Account Operators
+Administrators
+Backup Operators
+Cert Publishers
+Compliance Management
+Delegated Setup
+DHCP Administrators
+Discovery Management
+DNSAdmins
+Domain Admins
+Domain Controllers
+Enterprise Admins
+ExchangeLegacyInterop
+Exchange Services
+Exchange Trusted Subsystem
+Exchange Windows Permissions
+Group Policy Creator Owners
+Hygiene Management
+Incoming Forest Trust Builders
+Managed Availability Servers
+Network Configuration Operators
+Organization Management
+Pre-Windows 2000 Compatible Access
+Print Operators
+Protected Users
+Public Folder Management
+Recipient Management
+Remote Desktop Users
+Schema Admins
+Server Management
+Server Operators
+UM Management
