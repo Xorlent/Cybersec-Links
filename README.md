@@ -12,8 +12,9 @@ Microsoft MCM/SCCM hardening guidance (https://github.com/subat0mik/Misconfigura
 OpenEDR, free cloud-based EDR (https://www.openedr.com)  
 Wazuh, free on-premise EDR (https://wazuh.com/platform/)  
 Quad9 filtered DNS (https://www.quad9.net)  
-1Hosts DNS filter lists (https://github.com/badmojr/1Hosts)  
+Hagezi DNS filter lists (https://github.com/hagezi/dns-blocklists)  
 AbuseIPDB (https://www.abuseipdb.com)  
+Silverfort Identity Protection (https://www.silverfort.com/product/)  
 RPC Firewall, from the fine folks at Zero Networks (https://github.com/zeronetworks/rpcfirewall)  
 Library of [vulnerable Windows driver hashes](https://github.com/magicsword-io/LOLDrivers).  Load these into your EDR for detection - the results can be a real eye-opener.  
 Win32 app isolation - Experimental (https://github.com/microsoft/win32-app-isolation)  
