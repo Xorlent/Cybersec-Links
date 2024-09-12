@@ -52,7 +52,7 @@ Security Now (https://www.grc.com/securitynow.htm)
 Cyberwire Daily (https://thecyberwire.com/podcasts/daily-podcast)  
 Down the Security Rabbithole (https://chartable.com/podcasts/down-the-security-rabbithole)  
 
-## Unsponsored Paid Product Recommendations
+## Unsponsored Commercial Product Recommendations
 ### Must-Have
 Enzoic Password Hygiene for Active Directory (https://www.enzoic.com/active-directory-password-monitoring/)  
 ### For Mature Organizations
