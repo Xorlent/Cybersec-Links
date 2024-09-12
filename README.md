@@ -14,7 +14,6 @@ Wazuh, free on-premise EDR (https://wazuh.com/platform/)
 Quad9 filtered DNS (https://www.quad9.net)  
 Hagezi DNS filter lists (https://github.com/hagezi/dns-blocklists)  
 AbuseIPDB (https://www.abuseipdb.com)  
-Silverfort Identity Protection (https://www.silverfort.com/product/)  
 RPC Firewall, from the fine folks at Zero Networks (https://github.com/zeronetworks/rpcfirewall)  
 Library of [vulnerable Windows driver hashes](https://github.com/magicsword-io/LOLDrivers).  Load these into your EDR for detection - the results can be a real eye-opener.  
 Win32 app isolation - Experimental (https://github.com/microsoft/win32-app-isolation)  
@@ -52,3 +51,9 @@ Malicious Life (https://www.cybereason.com/blog/category/podcasts)
 Security Now (https://www.grc.com/securitynow.htm)  
 Cyberwire Daily (https://thecyberwire.com/podcasts/daily-podcast)  
 Down the Security Rabbithole (https://chartable.com/podcasts/down-the-security-rabbithole)  
+
+## Unsponsored Paid Product Recommendations
+### Must-Have
+Enzoic Password Hygiene for Active Directory (https://www.enzoic.com/active-directory-password-monitoring/)  
+### For Mature Organizations
+Silverfort Identity Protection (https://www.silverfort.com/product/)  
