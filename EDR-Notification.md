@@ -1,4 +1,5 @@
 ## Recommended EDR alert notification rules
+_Other alerts can be helpful depending on the environment, but the following should work fairly well and not generate too much noise_
 
 ### Exec or script downloaded via browser
 #### Process
@@ -8,4 +9,4 @@
     *.exe,*.msi,*.iso,*.img,*.ps1,*.psm,*.zip,*.rar,*.arc,*.7z,*.tar,*.vbs,*.wasm,*.vbe,*.vb,*.wsf,*.jar,*.ps,*.com*.cab,*.cmd,*.bat,*.cpl,*.lnk,*.reg,*.vbscript,*.ws,*.chm,*.py,*.svg
 
 ### Executables run
-    rclone.exe,msdt.exe,wmic.exe,mshta.exe,certutil.exe
+    rclone.exe,msdt.exe,wmic.exe,mshta.exe,certutil.exe,bitsadmin.exe,schtasks.exe,sc.exe,csc.exe,cscript.exe,wscript.exe
