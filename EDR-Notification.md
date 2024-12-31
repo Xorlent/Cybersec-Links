@@ -6,3 +6,6 @@
 
 #### File written
     *.exe,*.msi,*.iso,*.img,*.ps1,*.psm,*.zip,*.rar,*.arc,*.7z,*.tar,*.vbs,*.wasm,*.vbe,*.vb,*.wsf,*.jar,*.ps,*.com*.cab,*.cmd,*.bat,*.cpl,*.lnk,*.reg,*.vbscript,*.ws,*.chm,*.py,*.svg
+
+### Executables run
+    rclone.exe,msdt.exe
