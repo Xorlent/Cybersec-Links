@@ -14,7 +14,7 @@ Wazuh, free on-premise EDR (https://wazuh.com/platform/)
 Quad9 filtered DNS (https://www.quad9.net)  
 Hagezi DNS filter lists (https://github.com/hagezi/dns-blocklists)  
 AbuseIPDB (https://www.abuseipdb.com)   
-Library of [vulnerable Windows driver hashes](https://github.com/magicsword-io/LOLDrivers).  Load these into your EDR for detection - the results can be a real eye-opener.  
+Library of [vulnerable Windows driver hashes](https://github.com/magicsword-io/LOLDrivers).  Load these into your EDR for detection  
 Fort Knocks, pre-connection dynamic IP allowlisting tool (https://github.com/Xorlent/Fort-Knocks)  
 
 ## Defender Tools
