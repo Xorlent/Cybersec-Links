@@ -15,7 +15,7 @@ Quad9 filtered DNS (https://www.quad9.net)
 Hagezi DNS filter lists (https://github.com/hagezi/dns-blocklists)  
 AbuseIPDB (https://www.abuseipdb.com)   
 Library of [vulnerable Windows driver hashes](https://github.com/magicsword-io/LOLDrivers).  Load these into your EDR for detection - the results can be a real eye-opener.  
-Win32 app isolation - Experimental (https://github.com/microsoft/win32-app-isolation)  
+Fort Knocks, pre-authentication dynamic IP allowlisting tool (https://github.com/Xorlent/Fort-Knocks)  
 
 ## Defender Tools
 Malware Bazaar sample lookup (https://bazaar.abuse.ch/browse/)  
