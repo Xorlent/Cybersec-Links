@@ -8,5 +8,6 @@ _Other alerts can be helpful depending on the environment, but the following sho
 #### File written
     *.exe,*.msi,*.iso,*.img,*.ps1,*.psm,*.zip,*.rar,*.arc,*.7z,*.tar,*.vbs,*.wasm,*.vbe,*.vb,*.wsf,*.jar,*.ps,*.com*.cab,*.cmd,*.bat,*.cpl,*.lnk,*.reg,*.vbscript,*.ws,*.chm,*.py,*.svg
 
-### Executables run (lite version; for a more complete list, see https://github.com/Xorlent/Risky-EXEs)
+### Executables run
+#### This is the lite version; for a more complete list, see https://github.com/Xorlent/Risky-EXEs  
     rclone.exe,msdt.exe,wmic.exe,mshta.exe,certutil.exe,bitsadmin.exe,schtasks.exe,sc.exe,csc.exe,cscript.exe,wscript.exe
