@@ -12,7 +12,7 @@
 5.	Running as a VMWare guest?  Ensure VMWare Tools is updated to version 11.3.0 at a minimum, 11.3.5 recommended.  
 6.	Take a full backup and then a VM snapshot.  
 7.	At this point, it is recommended to run dism in an elevated command prompt. Reboot if issues were resolved.  
-    dsim /online /cleanup-image /restorehealth  
+    ```dsim /online /cleanup-image /restorehealth```
 8.	Stop all non-essential services and disable any scheduled tasks that may interfere with the maintenance window.  
 9.	Copy the Windows Server 2019 Standard ISO to the host’s D or C drive.  
 10.	Right-click the copied ISO file, select “Properties” and click “Unblock”  
