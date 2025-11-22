@@ -46,8 +46,8 @@ Simply Static - Convert a Wordpress site to 100% static Cloudflare Pages site! (
 Darknet Diaries (https://darknetdiaries.com)  
 Hacked (https://pod.link/1049420219)  
 BHIS, Talkin' About Infosec News (https://www.blackhillsinfosec.com/podcasts/)  
-Malicious Life (https://www.cybereason.com/blog/category/podcasts)  
 Security Now (https://www.grc.com/securitynow.htm)  
+Malicious Life (https://www.cybereason.com/blog/category/podcasts) - Note: May be discontinued  
 Cyberwire Daily (https://thecyberwire.com/podcasts/daily-podcast)  
 Down the Security Rabbithole (https://chartable.com/podcasts/down-the-security-rabbithole)  
 
