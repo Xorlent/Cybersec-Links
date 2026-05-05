@@ -3,7 +3,6 @@ A collection of info and links to various useful cybersecurity resources
   
 ## Best Practices
 CIS Benchmarks (https://www.cisecurity.org/cis-benchmarks)  
-Microsoft Certificate Services [Simple Install Guide](https://sqldeep.com/how-to-install-and-configure-microsoft-certification-authority-ca-services/)  
 Microsoft 802.1x RADIUS/NPS Guidance (https://github.com/Xorlent/Cybersec-Links/blob/main/Microsoft-NPS.md)  
 Other Tips (https://github.com/Xorlent/Cybersec-Links/blob/main/Helpful-Tips.md)  
 Microsoft MCM/SCCM hardening guidance (https://github.com/subat0mik/Misconfiguration-Manager)
@@ -15,7 +14,6 @@ Quad9 filtered DNS (https://www.quad9.net)
 Hagezi DNS filter lists (https://github.com/hagezi/dns-blocklists)  
 AbuseIPDB (https://www.abuseipdb.com)   
 Library of [vulnerable Windows driver hashes](https://github.com/magicsword-io/LOLDrivers).  Load these into your EDR for detection  
-Fort Knocks, pre-connection dynamic IP allowlisting tool (https://github.com/Xorlent/Fort-Knocks)  
 
 ## Defender Tools
 Malware Bazaar sample lookup (https://bazaar.abuse.ch/browse/)  
