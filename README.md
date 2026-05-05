@@ -47,7 +47,7 @@ BHIS, Talkin' About Infosec News (https://www.blackhillsinfosec.com/podcasts/)
 Security Now (https://www.grc.com/securitynow.htm)  
 Malicious Life (https://www.cybereason.com/blog/category/podcasts) - Note: May be discontinued  
 Cyberwire Daily (https://thecyberwire.com/podcasts/daily-podcast)  
-Down the Security Rabbithole (https://chartable.com/podcasts/down-the-security-rabbithole)  
+Down the Security Rabbithole (https://dtsr.buzzsprout.com)  
 
 ## Unsponsored Commercial Product Recommendations
 Enzoic Password Hygiene for Active Directory (https://www.enzoic.com/active-directory-password-monitoring/)  
