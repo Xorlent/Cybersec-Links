@@ -23,6 +23,7 @@ Canary Tokens (https://docs.canarytokens.org/guide/getting-started.html)
 RITA (https://www.activecountermeasures.com/free-tools/rita/) - you can convert PCAP files or use a mirror port for real-time analysis  
 
 ## Vulnerability Testing Tools
+Active Directory Penetration Testing Playbook (https://0ut3r.space/2026/09/25/ad-pentest-playbook)  
 AD Certificate Services auditor (https://github.com/GhostPack/PSPKIAudit)  
 Bloodhound/Sharphound AD auditor (https://github.com/BloodHoundAD)  
 Purple Knight AD auditor (https://www.purple-knight.com)  
